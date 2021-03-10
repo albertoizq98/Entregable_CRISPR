@@ -1,0 +1,77 @@
+########################################
+# Program: Crispr Finder Program
+# Author: Ibtissem GRISSA
+# Rundate (GMT): 10/3/2021 10:6:52
+# Report_file: /var/www/html/CRISPR/tmp/output/crisprfinder/157.136.95.12_Mar_10_2021_10_06_34/tmp_2/tmp_2_Crispr_1
+########################################
+#=======================================
+# 
+# Sequence: tmp_2 
+# Description: Vibrio metoecus strain YB9D03 YB09_D03_contig_2_consensus, whole genome shotgun sequence.   [Vibrio metoecus strain YB9D03 | 1481663.11]
+# Length: 277001
+# Id: LBGR01000002
+#
+#=========================================================================
+# Crispr Rank in the sequence: 1
+# Crispr_begin_position: 266170	 Crispr_end_position: 268208
+# DR: GCTTCATTAGATAAGGTCGTTCAGACCGTTGAGAC	 DR_length: 35	 Number_of_spacers: 28
+#=========================================================================
+Spacer_begin_position	 Spacer_length	 Spacer_sequence
+               266205	            40	 AGACAGACGTTGTGAACTCCAGTTTGCAGAGATCAACTTG
+
+               266280	            34	 TAACCCGAGGCTCCAGTTCCGCGATCCCATTGCT
+
+               266349	            38	 AATATTCTTTGAATTCATTGTTGCCGTAGTGAAAACCA
+
+               266422	            35	 GGCAATGACACTGGATTGCCATCGATTTCTAATAC
+
+               266492	            33	 TCCTCTACGGCAACCGCGCTTGGCTCATACTTT
+
+               266560	            36	 TTTCACGGATGTCGTGTTTCTTGCCGGATTTGTTTT
+
+               266631	            36	 ATTTTTGATTTTCCATTTTTTTAGTTCGGCCATAGT
+
+               266702	            39	 TGATAGATAATTTTTAATGTGCCACTCATTCGTTTTGTG
+
+               266776	            35	 GAAAATAATAAATACTTACAGGTTCACCTTTAAAA
+
+               266846	            41	 AGACAAAGCGTAAAAACGACGCTCGCAAAATACTGTAAGCT
+
+               266922	            35	 GGAATAACTGCTAAAGGTGTGTTGAAATTCTGTGA
+
+               266992	            37	 GCCGCTTTTTTCAGCACTTTGTTAACTGCTACCTGAG
+
+               267064	            34	 GATTGTTTCCATCCTGTGCCATCTGAAACTAAAA
+
+               267133	            36	 GCATGGGTTTTCTCGCTGAGTTGATGGTTTGACTAA
+
+               267204	            37	 CGAAAATGATATTTTTTCCAGGTTCAAGCTGAATAAG
+
+               267276	            36	 CGCAAATCATCAATCCCATCTACACAAAGTAATTGT
+
+               267347	            37	 TGACAGGATCAACCCCTGCGGCGTAACCCGGTGTTGA
+
+               267419	            34	 TCATCAGCGTATTCTTTTGCAATAAACTGATTGT
+
+               267488	            35	 GTTATTTGACACAATCCCATTCCATGTGATCCAGC
+
+               267558	            39	 AATTCTCGCTCAATCATACCCTCAACTGTTTCAGTTTGG
+
+               267632	            39	 ATACGCTGATCATGCTTAGCACCTTGAGCATACAGTTCT
+
+               267706	            37	 CGAATTAGCCACACTGGGCTGATTGACGCATCGGTAT
+
+               267778	            38	 CAATACTGACACAAATACAATTCGAATGAATTTTTCTT
+
+               267851	            35	 CCATTTGGAATTCGAATTCAGGCGTACCTGGTGTA
+
+               267921	            35	 TGTATTTTTGTGTTTGAATTAAATCTCCGACATAG
+
+               267991	            40	 ATGTACCATTGCTTGTCTTTGTCATCCCAGAAGATTTTGG
+
+               268066	            35	 AAAAAGAGAGGAGGCGCAAGGGCGCAAAACTATGG
+
+               268136	            38	 TTTCTAGGGTCAAGATCATCAATGTTACCTAAACCTGT
+
+#=========================================================================
+########################################
